@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Students at CSE
 - 🌱 I’m currently learning ...AWS
 - 👯 I’m looking to collaborate on ...React
-- 🤔 I’m looking for help with ... .NET/APIs
+- 🤔 I’m looking for help with ... APIs
 - 💬 Ask me about ...js
 - 📫 How to reach me: ...dj.snake735@gmail.com
 - 😄 Pronouns: ...He
