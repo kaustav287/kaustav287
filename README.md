@@ -6,6 +6,4 @@
 - 🤔 I’m looking for help with ... APIs
 - 💬 Ask me about ...js
 - 📫 How to reach me: ...dj.snake735@gmail.com
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...momo lover
 
